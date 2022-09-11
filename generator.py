@@ -56,6 +56,6 @@ async def vintedstart_error(ctx, error):
         if isinstance(error, discord.ext.commands.errors.MissingRequiredArgument):
                 await ctx.send("(One or + arguments is missing after !vintedstart), Merci de checker !commandes afin de remplir tous les arguments.")
 
-client.run('MTAxNzQ2NzYxMTE5MTE5MzYzMA.GEH6kx.yk-h7I7l0vmIa4MHU8nxfLYwIn0bPqbWVq_5BI')
+client.run('')
 #https://www.vinted.be/vetements?" + "price_to" + price +"&currency=EUR&brand_id[]=" + brand +"&catalog[]=5&search_text=" + arg3 +"&order=newest_first
 
