@@ -1,0 +1,6 @@
+discord.py==1.7.3
+discord_py_slash_command==4.2.1
+pyshorteners==1.0.1
+pyVinted==0.4.9
+requests==2.19.1
+table2ascii==0.3.0
